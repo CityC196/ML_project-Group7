@@ -43,6 +43,6 @@
 | :--- | :--- | :--- | :--- |
 | **专家模型权重**<br>(Expert Models) | 包含 `ExpertModels_official` (官方模型) 与 `ExpertModels_own` (降维重训练模型及对比图)。 | [点击跳转](https://huggingface.co/CrisC196/ExpertModels) | [点击下载](https://pan.quark.cn/s/ea1805d61471) |
 | **文生计算数据集**<br>(Text-to-Computation) | 包含用于训练文生模块的数据集及数据集生成代码。 | [点击跳转](https://huggingface.co/datasets/CrisC196/TEXT_to_Computation) | [点击下载](https://pan.quark.cn/s/09f16adf09d3) |
-| **Router 数据集**<br>(Router Dataset) |包含用于训练Router的数据集及数据集生成代码。 | [点击跳转](https://huggingface.co/datasets/CrisC196/Router_dataset) | [点击下载](https://pan.quark.cn/s/87ec304a34fc) |
+| **Router 数据集**<br>(Router Dataset) |包含用于训练Router的数据集及数据集生成代码。 | [点击跳转](https://huggingface.co/datasets/CrisC196/Router_dataset) | [点击下载](https://pan.quark.cn/s/468ffc7f6b1a) |
 
 ---
